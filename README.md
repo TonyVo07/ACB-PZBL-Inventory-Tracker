@@ -27,3 +27,6 @@ Excel - A basic inventory and spreadsheet software
 - Sprint 2: code application using Git and GitHub Desktop by making at least 6 significant commits with specific, explanatory commit messages, while also tracking  progress by updating planned and emerging tasks in the project.
 - Sprint 3: continue coding, refining, and testing  application while also creating an attractive and informative PowerPoint slide introducing project's team members, title, tag line, and screenshots to upload to D2L and your GitHub repository.
 - Sprint 4: Present final product.
+
+## Project Lead
+- Tony Vo (KSU 2026 Class Project)
