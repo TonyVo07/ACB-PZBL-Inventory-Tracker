@@ -23,6 +23,6 @@ Visual Studio Code - Primary coding software
 Excel - A basic inventory and spreadsheet software
 
 ## Project Schedule
--Sprint 1
--Sprint 2
--Sprint 3
+- Sprint 1
+- Sprint 2
+- Sprint 3
