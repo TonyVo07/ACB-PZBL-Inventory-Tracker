@@ -1,3 +1,6 @@
+##THIS IS AN EXAMPLE REPOSITORY
+
+
 """Builds inventory_tracker.xlsx (Products, Stock In, Sales, Dashboard, How-To)."""
 from datetime import date, timedelta
 from openpyxl import Workbook
